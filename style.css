@@ -1,0 +1,113 @@
+body{
+    background-image: url(img/bg-pattern-top-desktop.svg), url(img/bg-pattern-bottom-desktop.svg);
+    background-position: left top, right bottom;
+    background-repeat: no-repeat, no-repeat;
+    font-family: Arial, sans-serif;
+}
+main{
+    margin: 60px 160px;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 90px;
+}
+#div1 h1{
+    font-size: 60px;
+    color: rgb(77, 13, 77);
+}
+#div1 p{
+    font-size: 17px;
+    color: rgb(126, 96, 114);
+    line-height: 29px;
+    font-weight: bold;
+}
+.div12{
+    margin-top:80px;
+}
+.div2{
+    gap: 5px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.div2 img{
+    padding-top: 15px;
+    width: 20px;
+    height: 20px;
+}
+.div2 p{
+    font-weight: bold;
+    padding-left: 30px;
+    font-size: 17px;
+    color: rgb(143, 54, 143);
+}
+#div20{
+    width: 360px;
+    padding: 0px 35px;
+    background-color: #f3f0f0;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+#div21{
+    width: 400px;
+    padding: 0px 35px;
+    background-color: #f3f0f0;
+    border: none;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+#div22{
+    width: 400px;
+    padding: 0px 35px;
+    background-color: #f3f0f0;
+    border: none;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+#section2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.div13{
+    height: 220px;
+    border-radius: 10px;
+    padding: 40px;
+    background-color: rgb(100, 36, 100);
+}
+.div3{
+    color: #fff;
+    display: flex;
+    gap: 30px;
+}
+.div3 img{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+.div3 h3{
+    font-size: 17px;
+    color: rgb(197, 68, 148);
+}
+.div31{
+    margin-top: -16px;
+}
+.div31 h3{
+    margin-top: -13px;
+}
+.div13 p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 29px;
+}
+#div131{
+    margin-top: 35px;
+}
+#div132{
+    margin-top: 70px;
+}
